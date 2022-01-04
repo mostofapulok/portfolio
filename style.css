@@ -1,0 +1,9 @@
+section{
+    display: flex;
+}
+.half-with{
+    width: 50%;
+}
+.half-with img {
+    width: 70%;
+}
